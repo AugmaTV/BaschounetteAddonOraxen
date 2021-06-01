@@ -44,7 +44,7 @@ public class PotionSplashMechanicManager implements Listener {
             return;
 
         this.applyEffectOnWorld(mechanic.getPotionType(), player.getWorld(), e.getClickedBlock().getLocation());
-        System.out.println("jsp encore bro fait pas chier sérieux nan mais oh t'as crue j'etait ta pute ?");
+        System.out.println("jsp");
     }
 
     private void applyEffectOnWorld(PotionEffectType effect, World world, Location location) {

@@ -1,6 +1,5 @@
 package fr.augma.addonoraxen.mechanics.potionsplash;
 
-import fr.augma.addonoraxen.mechanics.fertilizer.FertilizerMechanic;
 import io.th0rgal.oraxen.OraxenPlugin;
 import io.th0rgal.oraxen.mechanics.Mechanic;
 import io.th0rgal.oraxen.mechanics.MechanicFactory;
